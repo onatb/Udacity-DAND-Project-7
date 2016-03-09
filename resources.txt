@@ -1,0 +1,10 @@
+https://en.wikipedia.org/wiki/False_discovery_rate
+https://en.wikipedia.org/wiki/Multiple_comparisons_problem
+https://en.wikipedia.org/wiki/Closed_testing_procedure
+https://en.wikipedia.org/wiki/Boole%27s_inequality
+https://en.wikipedia.org/wiki/Holm%E2%80%93Bonferroni_method
+http://mybiasedcoin.blogspot.com.tr/2007/09/negative-dependence.html
+https://en.wikipedia.org/wiki/Familywise_error_rate#Controlling_procedures
+https://discussions.udacity.com/t/struggling-with-final-project-effect-size-tests/34035/7
+https://discussions.udacity.com/t/when-to-use-bonferroni-correction/37713/19
+https://discussions.udacity.com/t/p7-calculating-number-of-pageviews/26917/10
